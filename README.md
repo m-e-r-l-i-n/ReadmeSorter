@@ -1,8 +1,8 @@
 # ReadmeSorter
-What do you do when you have a very large readme with several headings and you need to keep them sorted in lexicographic order to make them look clean?<br>
+What do you do when you have a very large readme(or any other markdown file) with several headings and you need to keep them sorted in lexicographic order to make them look clean?<br>
 You don't do anything. You simply use this package to solve your problem.
 
-ReadmeSorter is a simple tool that will help you to sort your readmes in lexicographic order and make it look neat and clean. <br>
+ReadmeSorter is a simple tool that will help you to sort your markdowns in lexicographic order and make it look neat and clean. <br>
 Currently it is not sorting subheadings of headings present in markdown files. Support for subheadings will be available later.<br>
 
 The issues currently being faced can be found [here](https://github.com/m-e-r-l-i-n/ReadmeSorter/issues).<br>
